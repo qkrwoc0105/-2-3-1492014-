@@ -21,7 +21,7 @@ import kr.ac.hansung.cse.repo.ProductTable;
 
 //@CrossOrigin(origins = "http://localhost:4200")
 @RestController
-@RequestMapping("/api/vi")
+@RequestMapping("/api/v1")
 public class ProductController {
 
 	@Autowired
